@@ -1,24 +1,26 @@
-[
-  {
-    "id": "598cf022-258b-4f6e-b0a6-785f065dcce9",
-    "comment": "Post 1",
-    "created": 1594257611,
-    "likes": [],
-    "author": {
-      "id":"d9722bc0-0a60-48f2-b20f-b038ed65b66a",
-      "avatar": "https://orig00.deviantart.net/8459/f/2016/186/2/c/heisenberg_portrait_by_yannickbouchard-da8twpb.jpg"
+{
+  "posts": [
+    {
+      "id": "598cf022-258b-4f6e-b0a6-785f065dcce9",
+      "comment": "Post 1",
+      "created": 1594257611,
+      "likes": [],
+      "author": {
+        "id":"d9722bc0-0a60-48f2-b20f-b038ed65b66a",
+        "avatar": "https://orig00.deviantart.net/8459/f/2016/186/2/c/heisenberg_portrait_by_yannickbouchard-da8twpb.jpg"
+      }
+    },
+    {
+      "id": "a65b4bc6-095b-4798-b8e2-bd8c330db428",
+      "comment": "Post 2",
+      "created": 1586608380,
+      "likes": [],
+      "author": {
+        "id":"2ce64607-d11e-474b-b2df-be5a4636ec87",
+        "avatar": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default",
+        "firstName": "Pug",
+        "lastName": "Dog"
+      }
     }
-  },
-  {
-    "id": "a65b4bc6-095b-4798-b8e2-bd8c330db428",
-    "comment": "Post 2",
-    "created": 1586608380,
-    "likes": [],
-    "author": {
-      "id":"2ce64607-d11e-474b-b2df-be5a4636ec87",
-      "avatar": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default",
-      "firstName": "Pug",
-      "lastName": "Dog"
-    }
-  }
-]
+  ]
+}
